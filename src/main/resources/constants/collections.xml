@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE properties SYSTEM "http://java.sun.com/dtd/properties.dtd">
+<properties>
+    <entry key="authorization_tokens">tokens</entry>
+    <entry key="reset_password_tokens">reset_password_tokens_collection</entry>
+</properties>
